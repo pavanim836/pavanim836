@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Full-stack web development projects, focusing on building scalable and user-friendly applications<br><br>🌱 I’m currently learning:<br>Java programming and strengthening problem-solving skills through consistent practice on LeetCode<br><br>👯 I’m looking to collaborate on:<br>Full-stack projects, open-source contributions, and technology-driven student initiatives<br><br>🤔 I’m looking for help with:<br>Advanced data structures, algorithms, and real-world application design<br><br>💬 Ask me about:<br>Full-stack development, Java fundamentals, problem-solving strategies, and student tech projects<br><br>📫 How to reach me:<br>GitHub or professional networking platforms (LinkedIn)<br><br>😄 Pronouns:<br>She / Her<br><br>⚡ Fun fact:<br>I enjoy combining analytical problem-solving with creativity through design and drawing
-
+I am CS student working on full-stack development, learning Java, and improving problem-solving skills through LeetCode practice; open to collaborating on tech projects and open-source initiatives.
+Passionate about combining analytical thinking with creativity, with interests in software development, design, and real-world engineering applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavani_acharya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pavani M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanim836@gmail.com) 
