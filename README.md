@@ -1,12 +1,36 @@
-# 💫 About Me:
-I am CS student working on full-stack development, learning Java, and improving problem-solving skills through LeetCode practice; open to collaborating on tech projects and open-source initiatives.
-Passionate about combining analytical thinking with creativity, with interests in software development, design, and real-world engineering applications.
+## 💫 About Me
+
+I'm a Computer Science student with a strong interest in Artificial Intelligence and Machine Learning. I have learned Python, am actively practicing Data Structures and Algorithms (DSA), and am exploring Machine Learning concepts while building a strong foundation in AI.
+
+I'm passionate about solving problems, learning new technologies, and exploring how AI can be used to build intelligent solutions for real-world challenges. I'm eager to dive deeper into AI, strengthen my technical skills, and collaborate on exciting tech projects and open-source initiatives.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavani_acharya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Pavani M](https://www.linkedin.com/in/pavanim-/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanim836@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## 💻 Tech Stack
+
+### 👩‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🧠 Core Computer Science
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-6A5ACD?style=for-the-badge)
+
+### 🤖 AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo= scikitlearn&logoColor=F7931E)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🎯 Currently Learning
+- Data Structures and Algorithms (DSA)
+- Machine Learning fundamentals
+- Artificial Intelligence and its real-world applications
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pavanim836&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pavanim836&theme=gotham&hide_border=false)<br/>
